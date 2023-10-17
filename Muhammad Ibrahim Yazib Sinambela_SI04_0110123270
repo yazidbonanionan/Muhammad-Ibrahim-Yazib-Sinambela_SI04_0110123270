@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FARHAN SHOP</title>
+
+</head>
+
+<body style="background-color: azure;">
+
+    
+
+    <ul>
+
+    <h1 align="center" style="font-family: 'Times New Roman', Times, serif;">SINAMBELA SHOP</h1>
+
+    <input type="text" placeholder="Search...">
+
+
+
+    <hr>
+
+    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Selamat datang di SINAMBELA SHOP, Selamat berbelanja</p>
+
+    <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Pisau Zambia </h2>
+
+        <img width="200px" src="https://s4.bukalapak.com/img/9684637862/large/Pisau_zambia.jpg" alt=""><br>
+
+        <td style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Harga - Rp 350.000 - Rp 600.000</td>
+
+<br><br>
+
+<input type="submit"value="Masukan Keranjang">
+
+<input type="submit"value="Pesan">
+
+    </ul>
+
+    <ul>
+
+    <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Metode Pembayaran</h2>
+
+    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Kami menerima pembayaran melalui transfer bank dan pembayaran langsung (COD) di OLSHOP SINAMBELA.</p>
+
+    <h2 style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Lokasi Toko</h2>
+
+    <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Anda bisa menemukan toko OLSHOP SINAMBELA di Jalan Raya Sawangan</p>
+
+    </ul>
+
+    </ul>
+
+</body>
+
+</html>
